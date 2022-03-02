@@ -4,6 +4,7 @@ metadata:
   name: spring-petclinic
 spec:
   git:
+    ignore: .git
     url: https://github.com/halkyonio/spring-boot-petclinic-accelerator
     ref:
       branch: main
