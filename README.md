@@ -1,6 +1,6 @@
 # New Accelerator
 
-- [new-accelerator.yaml](new-accelerator.yaml)  
+- [new-accelerator.yaml](accelerator.yaml)  
   Rename this file to `accelerator.yaml` and include it inside your new accelerator repo.
 
 - [k8s-resource.yaml](k8s-resource.yaml)  
