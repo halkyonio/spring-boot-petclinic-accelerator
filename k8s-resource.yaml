@@ -6,7 +6,7 @@ spec:
   git:
     ignore: ".git,.idea"
     url: https://github.com/halkyonio/spring-boot-petclinic-accelerator
-    interval: 1min
+    interval: 60s
     ref:
       branch: main
       tag: tap-1.0
