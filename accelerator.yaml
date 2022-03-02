@@ -4,7 +4,7 @@ accelerator:
   iconUrl: https://raw.githubusercontent.com/sample-accelerators/icons/master/icon-pets.jpeg
   tags:
     - java
-    - sprint boot
+    - sprint-boot
     - petclinic
   options:
   - name: optionName
