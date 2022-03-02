@@ -1,7 +1,7 @@
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
 kind: Accelerator
 metadata:
-  name: spring-petclinic
+  name: spring-boot-petclinic
 spec:
   git:
     ignore: .git
