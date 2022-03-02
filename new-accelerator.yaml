@@ -1,0 +1,16 @@
+accelerator:
+  displayName: Spring Boot Petclinic accelerator
+  description: "A sample Spring Boot application baked by a Postgresql DB"
+  iconUrl: https://raw.githubusercontent.com/sample-accelerators/icons/master/icon-pets.jpeg
+  tags:
+    - java
+    - sprint boot
+    - petclinic
+  options:
+  - name: optionName
+    label: Nice Label
+    display: true
+    defaultValue: ""
+engine:
+  include:
+  - '**'
